@@ -1,0 +1,43 @@
+.my_footer ul li
+{
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
+.my_title
+{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 26px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.my_img 
+{
+   width: 100%;
+   height: 320px;
+}
+.my_img2 
+{
+   width: 100%;
+   height: 150px;
+}
+.card 
+{
+    transition: 1s;
+    transform: scale(0.9);
+
+}
+.card:hover{
+    transform: scale(1);
+    }
+
+
+
+
+
+
+
+    
